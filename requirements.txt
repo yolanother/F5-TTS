@@ -21,3 +21,8 @@ transformers
 vocos
 wandb
 x_transformers>=1.31.14
+fastapi
+uvicorn
+sounddevice
+pyaudio
+portaudio
